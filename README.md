@@ -17,9 +17,3 @@ This project presents a comprehensive study on the **automated localization and 
 
 ## Usage
 The provided PDF documents can be opened with any standard PDF viewer. They contain all necessary information regarding the project.
-
-## Acknowledgments
-- [Any relevant citations or acknowledgments]
-
-## Contact
-For further inquiries or collaboration opportunities, please reach out at [your email address].
